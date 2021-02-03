@@ -1,0 +1,11 @@
+Hi group 13,
+
+Your grade for the project is 16.5%
+
+Comments:
+
+-2%: You have not implemented cluster sharding where actors are distributed across various nodes.
+-0.5%: More test cases could have been added.
+-1%: You have not exposed functionality (adding data and look up) in the form of web services by making use of the Akka-HTTP library.
+
+Abhijeet
